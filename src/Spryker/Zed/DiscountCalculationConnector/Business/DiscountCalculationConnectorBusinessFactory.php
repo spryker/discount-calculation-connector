@@ -12,7 +12,7 @@ use Spryker\Zed\DiscountCalculationConnector\Business\Model\Calculator\GrandTota
 use Spryker\Zed\DiscountCalculationConnector\Business\Model\Calculator\RemoveAllCalculatedDiscountsCalculator;
 use Spryker\Zed\Kernel\Business\AbstractBusinessFactory;
 
-class DiscountCalculationConnectorDependencyContainer extends AbstractBusinessFactory
+class DiscountCalculationConnectorBusinessFactory extends AbstractBusinessFactory
 {
 
     /**
